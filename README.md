@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banerrr" width="200">
+  <img src="./Banerrr" width="100%">
 </p>
 
 ## HoI I'm VEchie !!
