@@ -20,11 +20,11 @@
 Click down here... !
 
 <details>
-<summary><img src="./pixel.gif" width="25"></summary>
+<summary><img src="./Red_spinny" width="25"></summary>
 
 WOOOOHOOOO
 <p align="center">
-  <img src="./Red_spinny" width="100%">
+  <img src="./Pizza_slicee" width="100%">
 </p>
 
 
