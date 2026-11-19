@@ -4,10 +4,7 @@
 
 
 
-## >HoI I'm VEchie !!
-<p align="center">
-  <img src="./Toro_cheer" width="100%">
-</p>
+## >HoI I'm VEchie !! <img src="./sparkle" width="25">
 
 
 
