@@ -15,7 +15,7 @@ uhhhh
 
 
 <details align="center">
-<summary><img src="/Green_spin">
+<summary><img src="/Green_spin"></summary>
 
 
 <img src="./Ohdatmepureaura_ponytown" height="180"> <sub>MAIN 1</sub>
@@ -28,8 +28,6 @@ uhhhh
 <p align="center">
   <img src="./Fancy_divide" width="100%">
 </p>
-
-
 </details>
 
 
