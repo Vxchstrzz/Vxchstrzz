@@ -2,7 +2,8 @@
   <img src="./Banerrr" width="100%">
 </p>
 
-uhhhh
+${\color{#99352E}\textsf{uhhh}}$
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ruluko&duration=7000&pause=10&color=99352E&background=C7858500&center=true&vCenter=true&width=435&lines=%22Next+up+in+line%2C+whats+your+order%3F%22;%22..+you..+you+want+WHAT%3F!%22;%22We+dont+SELL+that.%22)](https://git.io/typing-svg)
@@ -15,7 +16,8 @@ uhhhh
 
 <div align="center">
 
-my PT skins!!! you'll find<img src="./Toro_camera" width="25"> me wearing these the most often₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾
+${\color{#99352E}\textsf{my PT skins!!! you'll find}}$<img src="./Toro_camera" width="25">${\color{#99352E}\textsf{me wearing these the most often₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾}}$
+
 <br>
 <img src="./Toro_cheer" width="100">
 
@@ -38,7 +40,8 @@ socials... !
 <summary><img src="./Red_spinny" width="25"></summary>
 
 <div align="center">
-OTHER SITES !!
+${\color{#99352E}\textsf{OTHER SITES !!!}}$
+
 
 <a href="https://vechluvsgrief.straw.page">[ strawpage ]</a>
 &nbsp; <img src="./Sparkle" width="25"> &nbsp;
