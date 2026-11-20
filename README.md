@@ -12,11 +12,55 @@ uhhhh
 </div>
 
 
+<details align="center">
+<summary><img src="/Green_spin" width="25"></summary>
+
+<details>
+<summary> PONY TOWN SKINS </summary>
+
+<table>
+<tr>
+<td align="center">
+<img src="./Ohdatme?pureaura_ponytown" width="100"><br>
+MAIN 1
+</td>
+<td align="center">
+<img src="./Jirachi_JAM_ponytown" width="100"><br>
+MAIN 2
+</td>
+<td align="center">
+<img src="./Wallter_ponytown" width="100"><br>
+MAIN 3
+</td>
+<td align="center">
+<img src="./Ralsei_ponytown" width="100"><br>
+MAIN 4
+</td>
+<td align="center">
+<img src="./Off_tab_SKIN_ponytown" width="100"><br>
+OFF-TAB
+</td>
+</tr>
+</table>
+
+</details>
+
+
+WOOOOHOOOO
+<p align="center">
+  <img src="./Fancy_Divide" width="100%">
+</p>
+
+
+
+</details>
+
+
 <p align="center">
   <img src="./Curve_divide" width="100%">
 </p>
 
-Click down here... !
+socials... !
 
 <details align="center">
 <summary><img src="./Red_spinny" width="25"></summary>
@@ -33,13 +77,6 @@ OTHER SITES !!
 <a href="https://www.tiktok.com/@no1.grieferfan?_t=ZS-90hbUBA2mfq&_r=1">[ tiktok ]</a>
 
 </div>
-
-WOOOOHOOOO
-<p align="center">
-  <img src="./Pizza_slicee" width="100%">
-</p>
-
-
 
 </details>
 
