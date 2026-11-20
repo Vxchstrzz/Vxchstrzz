@@ -24,7 +24,7 @@ uhhhh
 
 
 <p align="center">
-  <img src="./Fancy_Divide" width="100%">
+  <img src="./Fancy_divide" width="100%">
 </p>
 
 
