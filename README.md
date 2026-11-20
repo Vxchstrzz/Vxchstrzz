@@ -59,6 +59,7 @@ Click down here... !
 <summary><img src="./Red_spinny" width="25"></summary>
 
 <div align="center">
+OTHER SITES !!
 
 <a href="https://vechluvsgrief.straw.page">[ strawpage ]</a>
 &nbsp; <img src="./Sparkle" width="25"> &nbsp;
