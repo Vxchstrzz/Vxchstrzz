@@ -18,7 +18,7 @@ uhhhh
 
 Click down here... !
 
-<details>
+<details align="center">
 <summary><img src="./Red_spinny" width="25"></summary>
 
 <div align="center">
