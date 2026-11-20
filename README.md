@@ -15,7 +15,7 @@ uhhhh
 
 <div align="center">
 
-my PT skins!!! you'll find<img src="./Toro_camera" width="25"> me wearing these the most often
+my PT skins!!! you'll find<img src="./Toro_camera" width="25"> me wearing these the most often₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾
 <br>
 <img src="./Toro_cheer" width="100">
 
