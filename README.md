@@ -13,6 +13,7 @@ uhhhh
   <img src="./Curve_divide" width="100%">
 </p>
 
+<div align="center">
 
 my PT skins!!! you'll find<img src="./Toro_camera" width="25"> me wearing these the most often
 <br>
@@ -28,6 +29,8 @@ my PT skins!!! you'll find<img src="./Toro_camera" width="25"> me wearing these 
 <p align="center">
   <img src="./Fancy_divide" width="100%">
 </p>
+
+</div>
 
 socials... !
 
