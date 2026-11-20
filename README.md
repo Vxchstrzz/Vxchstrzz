@@ -15,7 +15,7 @@ uhhhh
 
 
 <details align="center">
-<summary><img src="/Green_spin"><summary>
+<summary><img src="/Green_spin">
 
 
 <img src="./Ohdatmepureaura_ponytown" height="180"> <sub>MAIN 1</sub>
