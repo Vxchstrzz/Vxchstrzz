@@ -17,6 +17,8 @@ uhhhh
 <details align="center">
 <summary><img src="/Green_spin"></summary>
 
+my PT skins!!! you'll find<img src="./Toro_camera" width="25"> me wearing these the most often
+<img src="./Toro_cheer" width="60">
 
 <img src="./Ohdatmepureaura_ponytown" height="180"> <sub>🍕 "order please." — Vech | oc</sub>
 <img src="./Jirachi_JAM_ponytown" height="205"> <sub>🌟°. — Jirachi</sub>
