@@ -27,7 +27,7 @@
 
 <br>
 
--𝑾𝑨𝑹𝑵𝑰𝑵𝑮﹕𝑰 𝒚𝒖𝒎𝒆 𝒘𝒊𝒕𝒉 𝒈𝒓𝒊𝒆𝒇𝒆𝒓! 𝑫𝒐𝒖𝒃𝒍𝒆𝒔 𝒑𝒍𝒔 𝒅𝒏𝒊.. 𝒎𝒂𝒚𝒃𝒆.. 𝑰'𝒎 𝒂 𝒔𝒉𝒂𝒓𝒑𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒚𝒖𝒎𝒆.. 𝑰 𝒂𝒍𝒔𝒐 𝒄𝒂𝒏 𝒃𝒆 𝒑𝒓𝒆𝒕𝒕𝒚 𝒔𝒆𝒏𝒔𝒊𝒕𝒊𝒗𝒆 𝒂𝒏𝒅 𝒓𝒖𝒅𝒆 𝒔𝒐𝒎𝒆𝒕𝒊𝒎𝒆𝒔 𝒔𝒐 𝒑𝒍𝒆𝒂𝒔𝒆 𝒙𝒄𝒖𝒔𝒆 𝒎𝒆..<img src="./Toro1" width="25"> <img src="./Toro2" width="25">
+-𝑾𝑨𝑹𝑵𝑰𝑵𝑮﹕𝑰 𝒚𝒖𝒎𝒆 𝒘𝒊𝒕𝒉 <img src="./Griefer1" width="25">𝒈𝒓𝒊𝒆𝒇𝒆𝒓! 𝑫𝒐𝒖𝒃𝒍𝒆𝒔 𝒑𝒍𝒔 𝒅𝒏𝒊.. 𝒎𝒂𝒚𝒃𝒆.. 𝑰'𝒎 𝒂 𝒔𝒉𝒂𝒓𝒑𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒚𝒖𝒎𝒆.. 𝑰 𝒂𝒍𝒔𝒐 𝒄𝒂𝒏 𝒃𝒆 𝒑𝒓𝒆𝒕𝒕𝒚 𝒔𝒆𝒏𝒔𝒊𝒕𝒊𝒗𝒆 𝒂𝒏𝒅 𝒓𝒖𝒅𝒆 𝒔𝒐𝒎𝒆𝒕𝒊𝒎𝒆𝒔 𝒔𝒐 𝒑𝒍𝒆𝒂𝒔𝒆 𝒙𝒄𝒖𝒔𝒆 𝒎𝒆..<img src="./Toro1" width="25"> <img src="./Toro2" width="25">
 
 <br>
 
@@ -61,11 +61,11 @@ Click down here... !
 <div align="center">
 
 <a href="https://vechluvsgrief.straw.page">[ strawpage ]</a>
-&nbsp; ✦ &nbsp;
+&nbsp; <img src="./Sparkle" width="25"> &nbsp;
 <a href="https://vchstrz.atabook.org/?page=1">[ atabook ]</a>
-&nbsp; ✦ &nbsp;
+&nbsp; <img src="./Sparkle" width="25"> &nbsp;
 <a href="https://pronouns.cc/@VchstrzR0s3vinter">[ prns.cc ]</a>
-&nbsp; ✦ &nbsp;
+&nbsp; <img src="./Sparkle" width="25"> &nbsp;
 <a href="https://www.tiktok.com/@no1.grieferfan?_t=ZS-90hbUBA2mfq&_r=1">[ tiktok ]</a>
 
 </div>
