@@ -2,7 +2,7 @@
   <img src="./Banerrr" width="100%">
 </p>
 
-${\color{#99352E}\textsf{uhhh}}$
+${\color{#99352E}\text{uhhh}}$
 
 <div align="center">
 
@@ -16,7 +16,7 @@ ${\color{#99352E}\textsf{uhhh}}$
 
 <div align="center">
 
-${\color{#99352E}\textsf{my PT skins!!! you'll find}}$<img src="./Toro_camera" width="25">${\color{#99352E}\textsf{me wearing these the most often₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾}}$
+${\color{#99352E}\text{my PT skins!!! you'll find}}$<img src="./Toro_camera" width="25">${\color{#99352E}\textsf{me wearing these the most often₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾}}$
 
 <br>
 <img src="./Toro_cheer" width="100">
@@ -40,7 +40,7 @@ socials... !
 <summary><img src="./Red_spinny" width="25"></summary>
 
 <div align="center">
-${\color{#99352E}\textsf{OTHER SITES !!!}}$
+${\color{#99352E}\text{OTHER SITES !!!}}$
 
 
 <a href="https://vechluvsgrief.straw.page">[ strawpage ]</a>
