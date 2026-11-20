@@ -16,11 +16,11 @@ uhhhh
 <summary><img src="/Green_spin"><summary>
 
 
-<img src="./Ohdatmepureaura_ponytown" width="100"> <sub>MAIN 1</sub>
-<img src="./Jirachi_JAM_ponytown" width="100"> <sub>MAIN 2</sub>
-<img src="./Wallter_ponytown" width="100"> <sub>MAIN 3</sub>
-<img src="./Ralsei_Ponytown" width="100"> <sub>MAIN 4</sub>
-<img src="./Off_tab_SKIN_ponytown" width="100"> <sub>OFF-TAB</sub>
+<img src="./Ohdatmepureaura_ponytown" width="110"> <sub>MAIN 1</sub>
+<img src="./Jirachi_JAM_ponytown" width="105"> <sub>MAIN 2</sub>
+<img src="./Wallter_ponytown" width="85"> <sub>MAIN 3</sub>
+<img src="./Ralsei_Ponytown" width="95"> <sub>MAIN 4</sub>
+<img src="./Off_tab_SKIN_ponytown" width="130"> <sub>OFF-TAB</sub>
 
 
 <p align="center">
