@@ -18,11 +18,11 @@ uhhhh
 <summary><img src="/Green_spin"></summary>
 
 
-<img src="./Ohdatmepureaura_ponytown" height="180"> <sub>MAIN 1</sub>
-<img src="./Jirachi_JAM_ponytown" height="205"> <sub>MAIN 2</sub>
-<img src="./Wallter_ponytown" height="180"> <sub>MAIN 3</sub>
-<img src="./Ralsei_Ponytown" height="180"> <sub>MAIN 4</sub>
-<img src="./Off_tab_SKIN_ponytown" height="180"> <sub>OFF-TAB</sub>
+<img src="./Ohdatmepureaura_ponytown" height="180"> <sub>🍕 "order please." — Vech | oc</sub>
+<img src="./Jirachi_JAM_ponytown" height="205"> <sub>🌟°. — Jirachi</sub>
+<img src="./Wallter_ponytown" height="180"> <sub>🔨 , Wallter BrickStone — RMK</sub>
+<img src="./Ralsei_Ponytown" height="180"> <sub>Ralse i</sub>
+<img src="./Off_tab_SKIN_ponytown" height="180"> <sub>Off-tab / making skins / AFK</sub>
 
 
 <p align="center">
