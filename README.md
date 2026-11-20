@@ -17,7 +17,7 @@ uhhhh
 
 
 <img src="./Ohdatmepureaura_ponytown" height="180"> <sub>MAIN 1</sub>
-<img src="./Jirachi_JAM_ponytown" height="180"> <sub>MAIN 2</sub>
+<img src="./Jirachi_JAM_ponytown" height="230"> <sub>MAIN 2</sub>
 <img src="./Wallter_ponytown" height="180"> <sub>MAIN 3</sub>
 <img src="./Ralsei_Ponytown" height="180"> <sub>MAIN 4</sub>
 <img src="./Off_tab_SKIN_ponytown" height="180"> <sub>OFF-TAB</sub>
