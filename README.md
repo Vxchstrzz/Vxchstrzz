@@ -13,40 +13,16 @@ uhhhh
 
 
 <details align="center">
-<summary><img src="/Green_spin" width="25"></summary>
-
-<details>
-<summary> PONY TOWN SKINS </summary>
-
-<table>
-<tr>
-<td align="center">
-<img src="./Ohdatme?pureaura_ponytown" width="100"><br>
-MAIN 1
-</td>
-<td align="center">
-<img src="./Jirachi_JAM_ponytown" width="100"><br>
-MAIN 2
-</td>
-<td align="center">
-<img src="./Wallter_ponytown" width="100"><br>
-MAIN 3
-</td>
-<td align="center">
-<img src="./Ralsei_ponytown" width="100"><br>
-MAIN 4
-</td>
-<td align="center">
-<img src="./Off_tab_SKIN_ponytown" width="100"><br>
-OFF-TAB
-</td>
-</tr>
-</table>
-
-</details>
+<summary><img src="/Green_spin"><summary>
 
 
-WOOOOHOOOO
+<img src="./Ohdatme?pureaura_ponytown" width="100"> <sub>MAIN 1</sub>
+<img src="./Jirachi_JAM_ponytown" width="100"> <sub>MAIN 2</sub>
+<img src="./Wallter_ponytown" width="100"> <sub>MAIN 3</sub>
+<img src="./Ralsei_Ponytown" width="100"> <sub>MAIN 4</sub>
+<img src="./Off_tab_SKIN_ponytown" width="100"> <sub>OFF-TAB</sub>
+
+
 <p align="center">
   <img src="./Fancy_Divide" width="100%">
 </p>
