@@ -16,7 +16,7 @@ uhhhh
 <summary><img src="/Green_spin"><summary>
 
 
-<img src="./Ohdatme?pureaura_ponytown" width="100"> <sub>MAIN 1</sub>
+<img src="./Ohdatmepureaura_ponytown" width="100"> <sub>MAIN 1</sub>
 <img src="./Jirachi_JAM_ponytown" width="100"> <sub>MAIN 2</sub>
 <img src="./Wallter_ponytown" width="100"> <sub>MAIN 3</sub>
 <img src="./Ralsei_Ponytown" width="100"> <sub>MAIN 4</sub>
