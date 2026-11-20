@@ -58,6 +58,18 @@ Click down here... !
 <details>
 <summary><img src="./Red_spinny" width="25"></summary>
 
+<div align="center">
+
+<a href="https://vechluvsgrief.straw.page">[ strawpage ]</a>
+&nbsp; ✦ &nbsp;
+<a href="https://vchstrz.atabook.org/?page=1">[ atabook ]</a>
+&nbsp; ✦ &nbsp;
+<a href="https://pronouns.cc/@VchstrzR0s3vinter">[ prns.cc ]</a>
+&nbsp; ✦ &nbsp;
+<a href="https://www.tiktok.com/@no1.grieferfan?_t=ZS-90hbUBA2mfq&_r=1">[ tiktok ]</a>
+
+</div>
+
 WOOOOHOOOO
 <p align="center">
   <img src="./Pizza_slicee" width="100%">
