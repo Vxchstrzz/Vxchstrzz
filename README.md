@@ -32,9 +32,25 @@ ${\color{#99352E}\text{uhhh}}$
   <img src="./Fancy_divide" width="100%">
 </p>
 
+<details align="center">
+<summary><img src="/Green_spin"></summary>
+I host some stuff aswell!!
+
+DW RP( unsure when coming back )
+<br>
+<img src="./DW_LOBBY" height="100"> <sub> DW lobbyyy.. </sub>
+<img src="./DW_TOONROOM" height="100"> <sub> DW toon rooms... </sub>
+
+<br>
+oohhh yo upcoming upcoming 
+<br>
+<img src="./MAFIA_MAP" height="100"> <sub> UNFINISHED Mafia..  </sub>
+
+</details>
+
 </div>
 
-socials... !
+${\color{#99352E}\text{socials ...}}$
 
 <details align="center">
 <summary><img src="./Red_spinny" width="25"></summary>
@@ -55,9 +71,4 @@ ${\color{#99352E}\text{OTHER SITES !!!}}$
 
 </details>
 
-<details align="center">
-<summary><img src="/Green_spin"></summary>
-
-
-</details>
 this is unfinished.... !
