@@ -38,13 +38,13 @@ I host some stuff aswell!!
 
 DW RP( unsure when coming back )
 <br>
-<img src="./DW_LOBBY" height="100"> <sub> DW lobbyyy.. </sub>
-<img src="./DW_TOONROOM" height="100"> <sub> DW toon rooms... </sub>
+<img src="./DW_LOBBY" height="200"> <sub> DW lobbyyy.. </sub>
+<img src="./DW_TOONROOM" height="200"> <sub> DW toon rooms... </sub>
 
 <br>
 oohhh yo upcoming upcoming 
 <br>
-<img src="./MAFIA_MAP" height="100"> <sub> UNFINISHED Mafia..  </sub>
+<img src="./MAFIA_MAP" height="200"> <sub> UNFINISHED Mafia..  </sub>
 
 </details>
 
