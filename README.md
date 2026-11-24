@@ -8,7 +8,7 @@
 <br>
 𐔌<img src="./Green_spin" width="25">🍕𖥻 ׁ ׅ ${\color{#99352E}\text{ minor , he/swag/any prns }}$
 <br>
-𐔌<img src="./Red_spinny" width="25">🍕𖥻 ׁ ׅ ${\color{#99352E}\text{ I'm a sharpsharing}}$ <h2> ${\color{#2D832C}\text{griefer}}$ <img src="./Griefer1" width="25"> ${\color{#99352E}\text{yumeshipper!!}}$
+𐔌<img src="./Red_spinny" width="25">🍕𖥻 ׁ ׅ ${\color{#99352E}\text{ I'm a sharpsharing}}$ ${\color{#2D832C}\text{Griefer}}$ <img src="./Griefer1" width="25"> ${\color{#99352E}\text{yumeshipper!!}}$
 <br>
 ${\color{#99352E}\text{doubles int w caution ..}}$
 
