@@ -6,7 +6,7 @@
 <div align="center">
   <div align="left">
 
-    𐔌<img src="./Green_spin" width="25">🍕𖥻 ׁ ׅ <font color="#99352E">call me vechstrz / willow !!</font> <img src="./Sparkle" width="25">
+𐔌<img src="./Green_spin" width="25">🍕𖥻 ׁ ׅ <font color="#99352E">call me vechstrz / willow !!</font> <img src="./Sparkle" width="25">
 <br>
 𐔌<img src="./Green_spin" width="25">🍕𖥻 ׁ ׅ <font color="#99352E">minor , he/swag/any prns</font>
 <br>
