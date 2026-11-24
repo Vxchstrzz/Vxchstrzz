@@ -16,7 +16,7 @@ ${\color{#99352E}\text{uhhh}}$
 
 <div align="center">
 
-# ${\color{#99352E}\text{my PT skins!!! you'll find}}$<img src="./Toro_camera" width="25">${\color{#99352E}\textsf{me wearing these the most often₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾}}$
+<h2> ${\color{#99352E}\text{my PT skins!!! you'll find}}$<img src="./Toro_camera" width="25">${\color{#99352E}\textsf{me wearing these the most often₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾}}$ </h2>
 
 <br>
 <img src="./Toro_cheer" width="100">
