@@ -8,6 +8,7 @@ ${\color{#99352E}\text{uhhh}}$
 <a href="https://vchstrz.atabook.org/?page=1">  SIGN ATA SIGN ATA </a> <img src="./Toro_heart" width="25">
 
 <br>
+
 ${\color{#99352E}\text{also my other stuff down there clickclick it}}$
 
 <details align="center">
