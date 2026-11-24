@@ -7,6 +7,28 @@ ${\color{#99352E}\text{uhhh}}$
   
 <a href="https://vchstrz.atabook.org/?page=1">  SIGN ATA SIGN ATA </a> <img src="./Toro_heart" width="25">
 
+<br>
+${\color{#99352E}\text{also my other stuff down there clickclick it}}$
+
+<details align="center">
+<summary><img src="./Red_spinny" width="25"></summary>
+
+<div align="center">
+${\color{#99352E}\text{OTHER SITES !!!}}$
+
+
+<a href="https://vechluvsgrief.straw.page">[ strawpage ]</a>
+&nbsp; <img src="./Sparkle" width="25"> &nbsp;
+<a href="https://vchstrz.atabook.org/?page=1">[ atabook ]</a>
+&nbsp; <img src="./Sparkle" width="25"> &nbsp;
+<a href="https://pronouns.cc/@VchstrzR0s3vinter">[ prns.cc ]</a>
+&nbsp; <img src="./Sparkle" width="25"> &nbsp;
+<a href="https://www.tiktok.com/@no1.grieferfan?_t=ZS-90hbUBA2mfq&_r=1">[ tiktok ]</a>
+
+</div>
+
+</details>
+
 </div>
 
 <div align="center">
@@ -59,26 +81,5 @@ ${\color{#99352E}\text{oohhh yo upcoming upcoming}}$
 </details>
 
 </div>
-
-${\color{#99352E}\text{socials ...}}$
-
-<details align="center">
-<summary><img src="./Red_spinny" width="25"></summary>
-
-<div align="center">
-${\color{#99352E}\text{OTHER SITES !!!}}$
-
-
-<a href="https://vechluvsgrief.straw.page">[ strawpage ]</a>
-&nbsp; <img src="./Sparkle" width="25"> &nbsp;
-<a href="https://vchstrz.atabook.org/?page=1">[ atabook ]</a>
-&nbsp; <img src="./Sparkle" width="25"> &nbsp;
-<a href="https://pronouns.cc/@VchstrzR0s3vinter">[ prns.cc ]</a>
-&nbsp; <img src="./Sparkle" width="25"> &nbsp;
-<a href="https://www.tiktok.com/@no1.grieferfan?_t=ZS-90hbUBA2mfq&_r=1">[ tiktok ]</a>
-
-</div>
-
-</details>
 
 this is unfinished.... !
