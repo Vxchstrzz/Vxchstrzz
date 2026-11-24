@@ -1,8 +1,9 @@
 <p align="center">
   <img src="./Banerrr" width="100%">
 </p>
+
 <div align="center">
-  <div align="left" style="display: inline-block;">
+<div align="left" style="display: inline-block;">
   
 𐔌<img src="./Green_spin" width="25">🍕𖥻 ׁ ׅ ${\color{#99352E}\text{ call me vechstrz / willow !! }}$ <img src="./Sparkle" width="25">
 <br>
@@ -13,7 +14,7 @@
 ${\color{#99352E}\text{doubles int w caution ..}}$
 
 </div> 
-  </div>
+</div>
 
 <br>
 
