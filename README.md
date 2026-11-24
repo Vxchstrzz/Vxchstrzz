@@ -7,7 +7,7 @@ ${\color{#99352E}\text{uhhh}}$
   
 # <a href="https://vchstrz.atabook.org/?page=1">  SIGN ATA SIGN ATA </a> <img src="./Toro_heart" width="25">
 
-<img src="./Fancy_divide" width="100">
+<img src="./Fancy_divide" width="100%">
 
 <br>
 
