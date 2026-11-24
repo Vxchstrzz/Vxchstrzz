@@ -3,6 +3,11 @@
 </p>
 
 ${\color{#99352E}\text{uhhh}}$
+<div align="center">
+  
+<a href="https://vchstrz.atabook.org/?page=1"> ${\color{#99352E}\text{ SIGN ATA SIGN ATA }}$ </a>
+
+</div>
 
 <div align="center">
 
@@ -34,17 +39,22 @@ ${\color{#99352E}\text{uhhh}}$
 
 <details align="center">
 <summary><img src="/Green_spin"></summary>
-I host some stuff aswell!!
+  
+<br>
 
-DW RP( unsure when coming back )
+<h2> ${\color{#99352E}\text{I host some stuff aswell!!}}$
+  
 <br>
-<img src="./DW_LOBBY" height="200"> <sub> DW lobbyyy.. </sub>
-<img src="./Untitled1302_20261123105707.png" height="200"> <sub> DW toon rooms... </sub>
+
+<h2> ${\color{#99352E}\text{DW RP( unsure when coming back )}}$
+<br>
+<img src="./DW_LOBBY" height="200"> <sub> DW lobbyyy..<img src="./Sparkle" width="25"> </sub>
+<img src="./Untitled1302_20261123105707.png" height="200"> <sub> DW toon rooms... <img src="./Sparkle2" width="25"> </sub>
 
 <br>
-oohhh yo upcoming upcoming 
+${\color{#99352E}\text{oohhh yo upcoming upcoming}}$ 
 <br>
-<img src="./MAFIA_MAP" height="200"> <sub> UNFINISHED Mafia..  </sub>
+<img src="./MAFIA_MAP" height="200"> <sub> UNFINISHED Mafia.. <img src="./Question_mark" width="25">  </sub>
 
 </details>
 
