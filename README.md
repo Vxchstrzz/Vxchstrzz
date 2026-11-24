@@ -57,7 +57,7 @@ ${\color{#99352E}\text{OTHER SITES !!!}}$
 
 
 <p align="center">
-  <img src="./Fancy_divide" width="100%">
+  <img src="./Heart_pizza" width="100%">
 </p>
 
 <details align="center">
