@@ -39,7 +39,7 @@ ${\color{#99352E}\text{OTHER SITES !!!}}$
 </div>
 
 <p align="center">
-  <img src="./Pizza_slice" width="100%">
+  <img src="./Pizza_slicee" width="100%">
 </p>
 
 <div align="center">
