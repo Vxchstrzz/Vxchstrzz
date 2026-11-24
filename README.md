@@ -3,8 +3,9 @@
 </p>
 
 <div align="center">
-<div align="left" style="display: inline-block;">
-  
+  <div style="width: fit-content; text-align: left;">
+
+
 𐔌<img src="./Green_spin" width="25">🍕𖥻 ׁ ׅ ${\color{#99352E}\text{ call me vechstrz / willow !! }}$ <img src="./Sparkle" width="25">
 <br>
 𐔌<img src="./Green_spin" width="25">🍕𖥻 ׁ ׅ ${\color{#99352E}\text{ minor , he/swag/any prns }}$
@@ -13,7 +14,7 @@
 <br>
 ${\color{#99352E}\text{doubles int w caution ..}}$
 
-</div> 
+  </div>
 </div>
 
 <br>
