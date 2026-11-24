@@ -1,8 +1,16 @@
 <p align="center">
   <img src="./Banerrr" width="100%">
 </p>
+<div align="center">
 
-${\color{#99352E}\text{uhhh}}$
+  
+𐔌<img src="./Sparkly_heart" width="25">🍕𖥻 ׁ ׅ ${\color{#99352E}\text{ call me vechstrz / willow !! }}$ <img src="./Sparkle" width="25">
+𐔌<img src="./Sparkly_heart" width="25">🍕𖥻 ׁ ׅ ${\color{#99352E}\text{ minor , he/swag/any prns }}$
+
+</div> 
+
+<br>
+
 <div align="center">
   
 # <a href="https://vchstrz.atabook.org/?page=1">  SIGN ATA SIGN ATA </a> <img src="./Toro_heart" width="25">
