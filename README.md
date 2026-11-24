@@ -49,7 +49,7 @@ ${\color{#99352E}\text{OTHER SITES !!!}}$
 ## ${\color{#99352E}\text{my PT skins!!! you'll find}}$<img src="./Toro_camera" width="25">${\color{#99352E}\textsf{me wearing these the most often₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾}}$ 
 
 <br>
-<img src="./Toro_cheer" width="100">
+<img src="./Toro_cheer" width="100%">
 
 <img src="./Ohdatmepureaura_ponytown" height="180"> <sub>🍕 "order please." — Vech | oc</sub>
 <img src="./Jirachi_JAM_ponytown" height="205"> <sub>🌟°. — Jirachi</sub>
