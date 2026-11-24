@@ -39,12 +39,12 @@ ${\color{#99352E}\text{OTHER SITES !!!}}$
 </div>
 
 <p align="center">
-  <img src="./Curve_divide" width="100%">
+  <img src="./Pizza_slice" width="100%">
 </p>
 
 <div align="center">
 
-<h2> ${\color{#99352E}\text{my PT skins!!! you'll find}}$<img src="./Toro_camera" width="25">${\color{#99352E}\textsf{me wearing these the most often₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾}}$ </h2>
+## ${\color{#99352E}\text{my PT skins!!! you'll find}}$<img src="./Toro_camera" width="25">${\color{#99352E}\textsf{me wearing these the most often₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾}}$ 
 
 <br>
 <img src="./Toro_cheer" width="100">
